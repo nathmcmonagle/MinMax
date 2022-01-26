@@ -1,5 +1,3 @@
-package Lab5;
-
 /*
  * Program to find the largest and smallest in a list of numbers
  */
